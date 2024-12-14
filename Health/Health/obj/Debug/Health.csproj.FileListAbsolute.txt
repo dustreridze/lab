@@ -1,0 +1,6 @@
+C:\Users\Данил\source\repos\Health\Health\bin\Debug\Health.dll
+C:\Users\Данил\source\repos\Health\Health\bin\Debug\Health.pdb
+C:\Users\Данил\source\repos\Health\Health\obj\Debug\Health.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\Health\Health\obj\Debug\Health.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\Health\Health\obj\Debug\Health.dll
+C:\Users\Данил\source\repos\Health\Health\obj\Debug\Health.pdb

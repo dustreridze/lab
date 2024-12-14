@@ -1,0 +1,13 @@
+C:\Users\Данил\source\repos\Health\HealthForm\bin\Debug\HealthForm.exe.config
+C:\Users\Данил\source\repos\Health\HealthForm\bin\Debug\HealthForm.exe
+C:\Users\Данил\source\repos\Health\HealthForm\bin\Debug\HealthForm.pdb
+C:\Users\Данил\source\repos\Health\HealthForm\bin\Debug\Health.dll
+C:\Users\Данил\source\repos\Health\HealthForm\bin\Debug\Health.pdb
+C:\Users\Данил\source\repos\Health\HealthForm\obj\Debug\HealthForm.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\Health\HealthForm\obj\Debug\HealthForm.Form1.resources
+C:\Users\Данил\source\repos\Health\HealthForm\obj\Debug\HealthForm.Properties.Resources.resources
+C:\Users\Данил\source\repos\Health\HealthForm\obj\Debug\HealthForm.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\Health\HealthForm\obj\Debug\HealthForm.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\Health\HealthForm\obj\Debug\HealthForm.csproj.Up2Date
+C:\Users\Данил\source\repos\Health\HealthForm\obj\Debug\HealthForm.exe
+C:\Users\Данил\source\repos\Health\HealthForm\obj\Debug\HealthForm.pdb
